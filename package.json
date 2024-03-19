@@ -1,0 +1,11 @@
+{
+  "name": "terminallindo",
+  "version": "1.0.0",
+  "description": "Teste da implementação da biblioteca blessed para criação de um terminal lindo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
